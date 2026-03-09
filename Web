@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios Eléctricos Profesionales - Técnico Certificado</title>
+    <meta name="description" content="Técnico electricista con grado medio en electricidad ofreciendo instalaciones, reparaciones y mantenimiento. Solicita presupuesto gratis para servicios seguros y confiables.">
+    <meta name="keywords" content="electricista, servicios eléctricos, reparaciones eléctricas, instalaciones, mantenimiento, técnico certificado, grado medio">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="hero">
+        <div class="hero-content">
+            <h1>Servicios Eléctricos de Confianza por un Técnico Certificado</h1>
+            <p>Con grado medio en electricidad, ofrezco instalaciones, reparaciones y mantenimiento eléctrico profesional para mantener tu hogar seguro y funcionando.</p>
+            <a href="#contact" class="cta-button">Solicitar Presupuesto</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>Sobre Mí</h2>
+            <p>Tengo un grado medio en electricidad y una amplia experiencia en instalaciones eléctricas, mantenimiento y reparaciones. Mi compromiso con la profesionalidad, la rapidez y la seguridad garantiza que tus necesidades eléctricas se cumplan con los más altos estándares.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Servicios</h2>
+            <div class="service-cards">
+                <div class="service-card">
+                    <h3>Instalaciones Eléctricas en Viviendas</h3>
+                    <p>Instalaciones completas para nuevas viviendas o reformas.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Reparación de Averías</h3>
+                    <p>Arreglo de cableado defectuoso, enchufes y interruptores de forma rápida y segura.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Instalación de Enchufes y Iluminación</h3>
+                    <p>Agrega o actualiza enchufes, luces y accesorios.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Cuadros Eléctricos</h3>
+                    <p>Instalación y mantenimiento de cuadros y interruptores para máxima seguridad.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Mantenimiento Eléctrico</h3>
+                    <p>Revisiones regulares para prevenir problemas y asegurar eficiencia.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Diagnóstico de Fallos Eléctricos</h3>
+                    <p>Diagnóstico preciso de problemas eléctricos con soluciones expertas.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="why-choose">
+        <div class="container">
+            <h2>Por Qué Elegirme</h2>
+            <ul>
+                <li>Trabajo seguro y profesional con experiencia certificada</li>
+                <li>Presupuestos gratis y precios transparentes</li>
+                <li>Respuesta rápida a tus necesidades eléctricas</li>
+                <li>Precios competitivos sin comprometer la calidad</li>
+                <li>Conocimiento técnico respaldado por formación profesional</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="how-it-works">
+        <div class="container">
+            <h2>Proceso de Trabajo</h2>
+            <div class="steps">
+                <div class="step">
+                    <h3>1. Contacto</h3>
+                    <p>Contáctame por teléfono, email o formulario.</p>
+                </div>
+                <div class="step">
+                    <h3>2. Diagnóstico del Problema</h3>
+                    <p>Evalúo el problema y discuto opciones contigo.</p>
+                </div>
+                <div class="step">
+                    <h3>3. Presupuesto</h3>
+                    <p>Recibe un presupuesto claro y sin compromiso.</p>
+                </div>
+                <div class="step">
+                    <h3>4. Reparación o Instalación</h3>
+                    <p>Ejecución segura y eficiente del trabajo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <div class="container">
+            <h2>Testimonios</h2>
+            <div class="testimonial">
+                <p>"Excelente servicio! Arregló nuestro problema eléctrico rápidamente y de forma segura. ¡Muy recomendado!" - Juan D.</p>
+            </div>
+            <div class="testimonial">
+                <p>"Profesional y confiable. Instaló nueva iluminación en nuestra casa perfectamente. Volveré a llamarlo." - Sara M.</p>
+            </div>
+            <div class="testimonial">
+                <p>"Gran valor y respuesta rápida. La experiencia certificada hizo toda la diferencia." - Miguel R.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="gallery">
+        <div class="container">
+            <h2>Galería</h2>
+            <div class="gallery-images">
+                <img src="https://via.placeholder.com/300x200?text=Instalación+Eléctrica" alt="Instalación Eléctrica">
+                <img src="https://via.placeholder.com/300x200?text=Trabajo+de+Cableado" alt="Trabajo de Cableado">
+                <img src="https://via.placeholder.com/300x200?text=Cuadro+Eléctrico" alt="Cuadro Eléctrico">
+                <img src="https://via.placeholder.com/300x200?text=Instalación+de+Iluminación" alt="Instalación de Iluminación">
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contacto</h2>
+            <form id="contact-form">
+                <input type="text" name="name" placeholder="Tu Nombre" required>
+                <input type="email" name="email" placeholder="Tu Email" required>
+                <input type="tel" name="phone" placeholder="Tu Teléfono" required>
+                <textarea name="message" placeholder="Tu Mensaje" required></textarea>
+                <button type="submit">Enviar Mensaje</button>
+            </form>
+            <div class="contact-info">
+                <p>Teléfono: (123) 456-7890</p>
+                <p>Email: electricista@example.com</p>
+                <p>Zona de Servicio: Área Local</p>
+                <a href="https://wa.me/1234567890" class="whatsapp-button">Contactar por WhatsApp</a>
+            </div>
+        </div>
+    </section>
+
+    <footer id="final-cta">
+        <div class="container">
+            <h2>¿Listo para Empezar?</h2>
+            <p>Contáctame hoy para un presupuesto gratis en tus necesidades eléctricas.</p>
+            <a href="#contact" class="cta-button">Solicitar Presupuesto</a>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
